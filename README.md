@@ -505,7 +505,7 @@ plt.ylabel('returns')
 
 
 
-![png](Mean%20Variance%20Efficient%20Portfolio%20Optimization_files/Mean%20Variance%20Efficient%20Portfolio%20Optimization_28_2.png)
+![png](images/Mean%20Variance%20Efficient%20Portfolio%20Optimization_28_2.png)
 
 
 ## Defining Functions
@@ -719,7 +719,7 @@ plt.scatter(results[1,:], results[0,:], c=results[2,:], marker='o')
 
 
 
-![png](Mean%20Variance%20Efficient%20Portfolio%20Optimization_files/Mean%20Variance%20Efficient%20Portfolio%20Optimization_51_1.png)
+![png](images/Mean%20Variance%20Efficient%20Portfolio%20Optimization_51_1.png)
 
 
 
@@ -737,7 +737,7 @@ plt.plot([p['fun']*np.sqrt(numPeriodsAnnually) for p in efficientPortfolios], ta
 
 
 
-![png](Mean%20Variance%20Efficient%20Portfolio%20Optimization_files/Mean%20Variance%20Efficient%20Portfolio%20Optimization_52_1.png)
+![png](images/Mean%20Variance%20Efficient%20Portfolio%20Optimization_52_1.png)
 
 
 
